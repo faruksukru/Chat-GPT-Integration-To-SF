@@ -3,5 +3,6 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/.sfdx": true
-  }
+  },
+  "salesforcedx-vscode-apex.java.home": "C:\\Users\\emre\\Downloads\\zulu17.44.15-ca-jdk17.0.8-win_x64\\zulu17.44.15-ca-jdk17.0.8-win_x64"
 }
